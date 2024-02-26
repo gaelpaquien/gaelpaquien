@@ -1,7 +1,7 @@
 <h1>Hello World! 👋</h1>
 
 <p>I am Gaël, PHP/Symfony Developer, living in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="11"/> France.<br>
-I am open to collaboration opportunities, contact me on <a href="https://www.linkedin.com/in/gaelpa/">LinkedIn</a> or send me an email (<a href="mailto:contact@gaelpaquien.com">contact@gaelpaquien.com</a>).</p>
+I am open to collaboration opportunities, contact me on <a href="https://www.linkedin.com/in/gaelpa/">LinkedIn</a> or send me an <a href="mailto:contact@gaelpaquien.com">e-mail</a>.</p>
 
 <h2>Core Skills</h2>
 <p>
