@@ -24,8 +24,8 @@ I am open to collaboration opportunities, contact me on <a href="https://www.lin
 
 <h2>Currently learning</h2>
 <p>
-  <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD%20-8A2BE2" />
-  <img alt="Docker Swarm" src="https://img.shields.io/badge/CI/CD%20-8A2BE2" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD%20-F05234" />
+  <img alt="Docker Swarm" src="https://img.shields.io/badge/Docker%20Swarm%20-8A2BE2" />
   <img alt="Traefik Proxy" src="https://img.shields.io/badge/Traefik%20Proxy-24A1C1?logo=traefikproxy&logoColor=fff&style=flat" />
 </p>
 
