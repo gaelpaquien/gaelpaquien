@@ -15,24 +15,6 @@
   <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=flat" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" />
-</p>
-<p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-<p>
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat" />
-</p>
-<p>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=flat" />
-</p>
-
-<h2>Currently learning</h2>
-<p>
-  <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD%20-F05234" />
-  <img alt="Docker Swarm" src="https://img.shields.io/badge/Docker%20Swarm%20-2D93E1" />
-  <img alt="Traefik Proxy" src="https://img.shields.io/badge/Traefik%20Proxy-24A1C1?logo=traefikproxy&logoColor=fff&style=flat" />
 </p>
