@@ -1,10 +1,10 @@
 <h1>Hello World! 👋</h1>
 
 <h2>About me</h2>
-<p><img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="14"/> - Web Developer</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="14"/> - Backend Developer</p>
 <p>
   <a href="https://www.linkedin.com/in/gaelpaquien/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" /></a>
-  <a href="https://www.gaelpaquien.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/www.gaelpaquien.com%20-0D0D0D" /></a>
+  <a href="https://gaelpaquien.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/https://gaelpaquien.com%20-0D0D0D" /></a>
   <a href="mailto:contact@gaelpaquien.com"><img alt="E-mail contact" src="https://img.shields.io/badge/contact@gaelpaquien.com%20-0D0D0D" /></a>
 </p>
 
